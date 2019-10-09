@@ -1,6 +1,7 @@
 # InitialCollection
 
-##Titulo 2
+## Titulo 2
 
-###Titulo 3
-_blablablabla_
+### Titulo 3
+
+_ blablablabla_
